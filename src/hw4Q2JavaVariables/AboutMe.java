@@ -2,8 +2,7 @@ package hw4Q2JavaVariables;
 
 public class AboutMe {
 
-	public String name0; // variable is declared
-	public String name;// variable is initialized
+	public String name; // variable is declared
 	public byte age;
 	public short myYearlyHouseRent;
 	public int myYearlySalary;
